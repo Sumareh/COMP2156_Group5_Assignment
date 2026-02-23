@@ -12,4 +12,4 @@ COMP2156 – DevOps for System Administration
 Git collaboration and CI/CD implementation project.
 
 ## CI Tool
-GitHub Actions
+GitHub Actions 
